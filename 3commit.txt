@@ -1,1 +1,3 @@
 add sm
+
+newBranch1 add sm again
