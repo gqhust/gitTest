@@ -11,3 +11,7 @@ add sm commit and push
 add sm commit and push
 
 add sm commit and no push
+
+add sm commit and push again
+
+newBranch1 add sm commit and push
