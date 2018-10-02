@@ -1,3 +1,5 @@
 1-2-1 push
 
 1-2-2 no commit and just push
+
+before merge @newBranch1-2-2
