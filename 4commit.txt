@@ -1,3 +1,5 @@
 add
 
 newBranch1 add sm push
+
+commit and push but graph is not switch the new one
