@@ -1,5 +1,5 @@
 add
 
-newBranch1 add sm push
+newBranch1 add sm pushadd something changed
 
 add here remote
