@@ -4,4 +4,6 @@ github wirte by gq
 
 add 2 1
 
-add 3
+add 1 2
+
+add 2
