@@ -21,3 +21,5 @@ add new 2108-11-8 0:04
 remote add
 
 remote add
+
+pc2 add
