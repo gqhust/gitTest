@@ -5,3 +5,5 @@ newBranch1 add sm pushadd something changed
 add here remote
 
 add here remote again | remote add | PC add
+
+remote add
