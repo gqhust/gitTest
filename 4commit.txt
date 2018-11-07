@@ -8,4 +8,4 @@ add here remote again | remote add | PC add
 
 remote add
 
-pc add
+remote add | pc add
