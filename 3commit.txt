@@ -17,3 +17,5 @@ add sm commit and push again
 newBranch1 add sm commit and push
 
 add new 2108-11-8 0:04
+
+remote add
