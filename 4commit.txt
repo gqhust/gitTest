@@ -7,3 +7,5 @@ add here remote
 add here remote again | remote add | PC add
 
 remote add
+
+pc add
